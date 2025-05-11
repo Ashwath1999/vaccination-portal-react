@@ -1,0 +1,67 @@
+.container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 6px 12px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .edit-vaccine-button {
+    background-color: #e40000;
+  }
+
+  .delete-vaccine-button {
+    background-color: #4a00aa;
+  }
+  
+  button:hover {
+    background-color: #115293;
+  }
+  
+  form {
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  form input {
+    padding: 8px;
+    font-size: 14px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  thead {
+    background-color: #f5f5f5;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  td span {
+    color: #3a1a1a;
+    font-style: italic;
+  }
+  

@@ -1,0 +1,68 @@
+.vaccination-manager {
+  max-width: 960px;
+  margin: 100px auto;
+  padding: 20px;
+  background: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.drive-selector {
+  margin-bottom: 20px;
+}
+
+.drive-selector label {
+  font-weight: 600;
+  margin-right: 10px;
+}
+
+.drive-selector select {
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.drive-info {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.student-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 16px;
+}
+
+.student-table th,
+.student-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.student-table th {
+  background-color: #f0f0f0;
+}
+
+.student-table tr:nth-child(even) {
+  background-color: #fdfdfd;
+}
+
+.download-btn {
+  padding: 5px 10px;
+  background-color: #a300cc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.download-btn:hover {
+  background-color: #a300cc;
+}
+
+.download-btn {
+  margin-top: 10px;
+}

@@ -1,0 +1,83 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    padding: 8px 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    padding: 8px 12px;
+    margin-top: 5px;
+    background-color: #d8006c;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #bb0057;
+  }
+
+  .edit-student-button {
+    background-color: #2d0068;
+  }
+
+  .delete-student-button {
+    background-color: #be052d;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  form input {
+    padding: 8px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+  }
+  
+  form button {
+    margin-right: 10px;
+  }
+  
+  .bulk-upload-container {
+    border: 1px solid #ddd;
+    padding: 15px;
+    width: 200px;
+    margin-top: 20px auto;
+    margin-left: 20px;
+    text-align: center;
+  }
+  
+  .bulk-upload-container input {
+    margin-bottom: 10px;
+  }
+  
+  .bulk-upload-container button {
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+
+  .search-bar input {
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+  }
+
+  .search-by {
+    margin-left: 10px;
+    font-weight: bold;
+  }
