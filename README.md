@@ -26,9 +26,9 @@ git clone https://github.com/Ashwath1999/vaccination-portal-react
 ## Setup instructions
 
 1.	Open the react application downloaded from the git repository.
-2.	Navigate to the project directory:                                                                                                                                                                                                                                                      cd React-Vaccination-Portal-App
+2.	Navigate to the project directory: cd React-Vaccination-Portal-App
 
-3.	Install dependencies using the below command                                                                                                                                                                                                                                            npm install
-4.	Start the frontend server using the below command                                                                                                                                                                                                                                       npm run dev
-5.	The react application will be running at:                                                                                                                                                                                                                                               http://localhost:5173
+3.	Install dependencies using the following command: *npm install*
+4.	Start the frontend server using the following command: *npm run dev*
+5.	The react application will be running at: *http://localhost:5173*
 
