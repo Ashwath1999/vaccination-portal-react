@@ -1,7 +1,3 @@
-# vaccination-portal-react
-Uses react to implement frontend functionalities for student vaccination portal
-
-
 # React - Student Vaccination Portal
 
 A web application built with React for student vaccination portal
